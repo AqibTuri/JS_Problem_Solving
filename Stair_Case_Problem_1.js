@@ -1,6 +1,7 @@
-// Print this pattern 
-// Like if n is 4 then it should look like
 /*
+Stair Case Problem Description 
+Its base and height are both equal to n. It is drawn using # symbols and spaces. The last line is not preceded by any spaces.
+Patrren like below
        #
       ##
      ###
